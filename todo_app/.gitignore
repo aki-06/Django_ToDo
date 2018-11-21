@@ -1,2 +1,2 @@
 __pycache__
-SECRET_KEY = settings_local.SECRET_KEY
+settings_local.py
